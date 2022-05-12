@@ -22,5 +22,5 @@ Source des données : https://datacatalog.worldbank.org/dataset/education-statis
 * Maîtriser les opérations fondamentales du langage Python pour la Data Science
 
 ## Livrables
-* un notebook comportant les analyses pré-exploratoires réalisées 
-* un support de présentation pour la soutenance
+* un [notebook](https://drive.google.com/file/d/1iJ9ktBlfOYTKyDhiJ_wKn-axPGITOmo4/view?usp=sharing) comportant les analyses pré-exploratoires réalisées 
+* un [support de présentation]() pour la soutenance
