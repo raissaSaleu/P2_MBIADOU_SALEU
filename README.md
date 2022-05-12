@@ -23,4 +23,4 @@ Source des données : https://datacatalog.worldbank.org/dataset/education-statis
 
 ## Livrables
 * un [notebook](https://github.com/raissaSaleu/P2_MBIADOU_SALEU/blob/main/P2_01_notebook.ipynb) comportant les analyses pré-exploratoires réalisées 
-* un [support de présentation]() pour la soutenance
+* un [support de présentation](https://github.com/raissaSaleu/P2_MBIADOU_SALEU/blob/main/P2_02_support.pdf) pour la soutenance
