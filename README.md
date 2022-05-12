@@ -1,4 +1,4 @@
-# Projet2-Openclassrooms
+# Projet2-(Openclassrooms/CentraleSupelec)
 Parcours Data Science
 
 Projet n°2 : "Analysez des données de systèmes éducatifs"
